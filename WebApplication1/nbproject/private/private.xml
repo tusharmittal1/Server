@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/mitta/Documents/NetBeansProjects/WebApplication1/src/java/users/Customer.java</file>
+            <file>file:/C:/Users/mitta/Documents/NetBeansProjects/WebApplication1/src/java/persistance/tables/Movie.java</file>
+            <file>file:/C:/Users/mitta/Documents/NetBeansProjects/WebApplication1/web/index.html</file>
+            <file>file:/C:/Users/mitta/Documents/NetBeansProjects/WebApplication1/src/java/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/mitta/Documents/NetBeansProjects/WebApplication1/src/java/persistance/tables/Seat.java</file>
+            <file>file:/C:/Users/mitta/Documents/NetBeansProjects/WebApplication1/src/java/persistance/HibernateUtil.java</file>
+            <file>file:/C:/Users/mitta/Documents/NetBeansProjects/WebApplication1/src/java/users/Manager.java</file>
+            <file>file:/C:/Users/mitta/Documents/NetBeansProjects/WebApplication1/src/java/handler/RequestHandler.java</file>
+            <file>file:/C:/Users/mitta/Documents/NetBeansProjects/WebApplication1/src/java/persistance/models/Movielistings.java</file>
+            <file>file:/C:/Users/mitta/Documents/NetBeansProjects/WebApplication1/src/java/persistance/models/Users.java</file>
+            <file>file:/C:/Users/mitta/Documents/NetBeansProjects/WebApplication1/src/java/persistance/tables/MovieListing.java</file>
+            <file>file:/C:/Users/mitta/Documents/NetBeansProjects/WebApplication1/src/java/persistance/ManageUsers.java</file>
+            <file>file:/C:/Users/mitta/Documents/NetBeansProjects/WebApplication1/src/java/persistance/MoviesDaoImpl.java</file>
+            <file>file:/C:/Users/mitta/Documents/NetBeansProjects/WebApplication1/src/java/hibernate.reveng.xml</file>
+            <file>file:/C:/Users/mitta/Documents/NetBeansProjects/WebApplication1/src/java/CinemaServer/CinemaProgram.java</file>
+            <file>file:/C:/Users/mitta/Documents/NetBeansProjects/WebApplication1/src/java/daos/UsersDao.java</file>
+            <file>file:/C:/Users/mitta/Documents/NetBeansProjects/WebApplication1/src/java/daos/MoviesDao.java</file>
+            <file>file:/C:/Users/mitta/Documents/NetBeansProjects/WebApplication1/src/java/persistance/models/Movies.java</file>
+            <file>file:/C:/Users/mitta/Documents/NetBeansProjects/WebApplication1/src/java/persistance/UsersDaoImpl.java</file>
+            <file>file:/C:/Users/mitta/Documents/NetBeansProjects/WebApplication1/src/java/users/User.java</file>
+        </group>
+    </open-files>
+</project-private>
